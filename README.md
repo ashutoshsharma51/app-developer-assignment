@@ -1,6 +1,7 @@
 # BlueStacks Assignment
 
 A new Flutter project.
+pushing the release APK file in same repo.
 
 ## Getting Started
 
